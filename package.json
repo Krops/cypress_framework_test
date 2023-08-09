@@ -1,0 +1,23 @@
+{
+  "name": "cypress_framework_test",
+  "version": "1.0.0",
+  "description": "test cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krops/cypress_framework_test.git"
+  },
+  "author": "andrekropes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krops/cypress_framework_test/issues"
+  },
+  "homepage": "https://github.com/Krops/cypress_framework_test#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.13.0"
+  }
+}
